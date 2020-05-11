@@ -18,6 +18,6 @@ while True:
 	elif c=='n' or c== "N":
 		break
 	else:
-		print('                                   Invalid input  !!!     \n')
+		print('  Invalid input  !!!     \n')
 	c=input('Do you want to continue (y/n) ?:')
 	print()
